@@ -1,8 +1,11 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(102, 102, 102, 0.239);
+    
 }
-
+.main-content {
+    height: 90vh;
+}
 .pinktext {
     color: rgb(171, 102, 136);
 }
